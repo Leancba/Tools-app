@@ -23,8 +23,8 @@
 
 <h2> Links </h2>
 
-Link de descarga APK funcionando en android 8+ : https://cutt.ly/iX0L9gK
+Link de descarga APK funcionando en android 8+ : https://cutt.ly/rX0Z6e7
 
-Link de Youtube :  [ToDo App](https://www.youtube.com/watch?v=V2A5c26xp1c)
+Link de Youtube :  [Tools App](https://www.youtube.com/watch?v=V2A5c26xp1c)
 
 [![Alt text](https://img.youtube.com/vi/V2A5c26xp1c/0.jpg)](https://www.youtube.com/watch?v=V2A5c26xp1c)
